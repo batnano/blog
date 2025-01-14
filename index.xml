@@ -5,29 +5,6 @@
     <link>/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My insane Blog pipeline</title>
-      <link>/posts/my-blog-post/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/my-blog-post/</guid>
-      <description>&lt;p&gt;Test&lt;img src=&#34;/images/EBAEFEC5-3A27-4EDB-85CA-130A74176EAF_1_105_c.jpeg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;Test&lt;img src=&#34;/images/EBAEFEC5-3A27-4EDB-85CA-130A74176EAF_1_105_c.jpeg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/2nd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2nd/</guid>
-      <description>&lt;p&gt;2nd&lt;/p&gt;</description>
-      <content>&lt;p&gt;2nd&lt;/p&gt;
-</content>
-    </item>
-    
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
