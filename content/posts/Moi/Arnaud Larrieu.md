@@ -4,7 +4,7 @@
 [[Érick Larrieu]]
 ## Frères et soeurs
 [[Élisa Larrieu]]
-[lequipe](www.lequipe.fr)
+[lequipe](https://www.lequipe.fr)
 
 Né le : 03/01/1986 à bordeaux France
 Nationalité : français 
